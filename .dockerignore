@@ -1,0 +1,7 @@
+.git
+.gitignore
+notificationsystem
+Dockerfile
+.dockerignore
+compose.yaml
+*.bak
